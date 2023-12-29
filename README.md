@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Gopika S</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **Python,Django,React**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **Gopikasri555@gmail.com**
 
